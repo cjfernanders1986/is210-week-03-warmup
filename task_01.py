@@ -5,5 +5,5 @@
 Strings are immutable but what about the variables that hold them?
 """
 
-RAVEN = 'NEVERMORE!'
+RAVEN = 'Nevermore!'
 print RAVEN
